@@ -33,3 +33,10 @@ Our model can detect various types of weapons, including knives and guns, in rea
  
 ![Screenshot (232)](https://github.com/WeaponDetection/Weapon-Detection/assets/145555418/b818752e-a15c-4f27-8b90-6a32d24e0f7d)
 
+
+
+
+
+![image](https://github.com/WeaponDetection/Weapon-Detection/assets/145555418/921a1e37-a515-467b-a5fb-1c308d598cee)
+
+
