@@ -30,4 +30,6 @@ We chose Roboflow to deploy our data as it provides an interface in the most pro
 Our model can detect various types of weapons, including knives and guns, in real-time.
 
 # Explore
-If you're intersted in trying our model visit: 
+If you're intersted in trying our model scan this QR code 
+![Screenshot (232)](https://github.com/WeaponDetection/Weapon-Detection/assets/145555418/b818752e-a15c-4f27-8b90-6a32d24e0f7d)
+
