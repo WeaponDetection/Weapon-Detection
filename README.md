@@ -1,4 +1,4 @@
-
+This is Salam project by Nora, Areej, and Raghad. Salam is a weapon detection model that aims to spread peace all around the world starting from the Kingdom of Saudi Arabia.
 
 # Problem
 The detection of people holding weapons, especially small ones, in a crowded place is nearly impossible using traditional methods.
