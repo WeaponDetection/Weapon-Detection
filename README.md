@@ -7,7 +7,7 @@ The detection of people holding weapons, especially small ones, in a crowded pla
 Devel a model that can detect various types of weapons in real time .
 
 # Project Description
-We used the open image v7 dataset and acquired three classes: knives, handguns, and mobile phones we will have more classes in the future. We trained our model using YOLOv8. We then used Roboflow for splitting, preprocessing, augmenting, and deploying our data.
+We used the open image v7 dataset and acquired three classes: knives, handguns, and mobile phones and we will have more classes in the future. We trained our model using YOLOv8. We then used Roboflow for splitting, preprocessing, augmenting, and deploying our data.
 
 # Splitting
 We split our data into three categories:
